@@ -8,7 +8,7 @@
 
 | 项目 | 要求 |
 |------|------|
-| Windows 版本 | Windows 11 或 Windows 10 版本 21H2+ |
+| Windows 版本 | Windows 11 |
 | 显卡 | AMD RDNA 3 架构（RX 7000 系列） |
 | 内存 | 建议 16GB+ |
 | 磁盘空间 | 建议 50GB+ 可用空间 |
