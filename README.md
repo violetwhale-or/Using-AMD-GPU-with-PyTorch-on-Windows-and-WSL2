@@ -66,7 +66,7 @@ wsl --install -d Ubuntu-22.04 --location D:\WSL\Ubuntu-22.04
 > **说明**：`--location` 后可替换为任意盘符路径，不指定则默认安装到 C 盘。
 
 下载安装结束后会弹出 Ubuntu 欢迎页面，**切回 PowerShell 或 Windows Terminal 继续后续操作**（WSL 已在后台运行）。
-![Uploading image.png…]()
+![欢迎页](/imgs/欢迎页.png)
 
 
 ---
@@ -252,9 +252,9 @@ rocminfo | grep "Marketing Name"
 
 预期输出应包含你的显卡型号，例如：
 
-```
-Marketing Name: AMD Radeon RX 7800 XT
-```
+
+![Marketing Name: AMD Radeon RX 7800 XT](/imgs/2.png)
+
 
 也可通过 `rocm-smi` 查看：
 
