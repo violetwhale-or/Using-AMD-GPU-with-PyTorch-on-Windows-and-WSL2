@@ -400,4 +400,4 @@ GPU 矩阵乘法测试通过
 
 ---
 ## 安装结束后在此环境使用Agent可以继续看指南
-![Agent安装示例：Deepseekv4pro/flash + Reasonix](/Agent(Deepseekv4%2BReasonix).md)
+[Agent安装示例：Deepseekv4pro/flash + Reasonix](/Agent(Deepseekv4%2BReasonix).md)
